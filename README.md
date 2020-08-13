@@ -1,8 +1,8 @@
 # Education and Training
 
-These repository has resources and scripts for enriching students lab environment
+Found something interesting? Create a pull request and add something cool!
 
-## Structure
+## Structure (So far)
 - environment
 Contains scripts for install software, containers, and configurations
 
