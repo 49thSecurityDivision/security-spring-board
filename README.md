@@ -12,6 +12,13 @@ Contains scripts to install software, containers, and configurations
 Contains resources and configuration files for environments
 
 ### Topics
+
+**Active Practice**
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [CTF Time](https://ctftime.org/)
+- [Over the Wire](https://overthewire.org/wargames/)
+
 **CTF**
 - [Capture The Flag 101](https://ctf101.org/)
 - [awesome CTF](https://github.com/apsdehal/awesome-ctf#readme)
