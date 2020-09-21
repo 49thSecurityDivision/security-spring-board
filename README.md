@@ -23,7 +23,8 @@ Contains resources and configuration files for environments
 - [Capture The Flag 101](https://ctf101.org/)
 - [awesome CTF](https://github.com/apsdehal/awesome-ctf#readme)
 
-**Systems**
+**Systems/System Administration**
+- [LinuxUpSkillChallenge](https://github.com/snori74/linuxupskillchallenge)
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [Distributed Systems](https://github.com/rShetty/awesome-distributed-systems)
 
