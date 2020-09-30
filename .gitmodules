@@ -1,3 +1,6 @@
 [submodule "environment/dockerfiles"]
 	path = environment/dockerfiles
 	url = https://github.com/vimagick/dockerfiles
+[submodule "competitions"]
+	path = competitions
+	url = git@github.com:49thSecurityDivision/Competitions.git
