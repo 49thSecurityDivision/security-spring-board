@@ -32,7 +32,7 @@ Contains resources and configuration files for environments
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 
 **Reverse Engineering**
-- [Reverse Engineering for Beginners](https://beginners.re/)
+- [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
 
 **Malware Analysis** 
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
