@@ -32,8 +32,7 @@ Contains resources and configuration files for environments
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 
 **Reverse Engineering**
-- [Reverse Engineering for Beginners](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
-
+- [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
 
 **Malware Analysis** 
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
