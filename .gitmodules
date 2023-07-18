@@ -1,6 +1,6 @@
-[submodule "competitions"]
-	path = competitions
-	url = git@github.com:49thSecurityDivision/Competitions.git
 [submodule "environment/vagrant-templates/metasploitable3"]
 	path = environment/archive/vagrant-templates/metasploitable3
 	url = https://github.com/rapid7/metasploitable3
+[submodule "Competitions"]
+	path = competitions
+	url = https://github.com/49thSecurityDivision/Competitions
