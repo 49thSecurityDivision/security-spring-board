@@ -13,6 +13,8 @@ The purpose of this repository is to be a place where students can get introduce
 - [rop_emporium](https://ropemporium.com)
 - [Over the Wire](https://overthewire.org/wargames/)
 
+
+## References
 #### CTF
 - [Capture The Flag 101](https://ctf101.org/)
 - [awesome CTF](https://github.com/apsdehal/awesome-ctf#readme)
@@ -26,8 +28,7 @@ The purpose of this repository is to be a place where students can get introduce
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 
 #### Reverse Engineering
-- [Reverse Engineering for Beginners](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)
-
+- [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
 
 #### Malware Analysis
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
