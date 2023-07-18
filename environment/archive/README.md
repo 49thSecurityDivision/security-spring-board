@@ -1,10 +1,8 @@
 # Environment Scripts
 
-### docker
-Install docker onto a debian 10 system
+## Getting Started
+- Install docker
 
-### elk-docker
-Clones and starts docker running the ELK stack
 
-## Docker Image repository
+## References
 - https://github.com/vimagick/dockerfiles
