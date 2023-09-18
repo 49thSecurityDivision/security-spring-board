@@ -17,9 +17,11 @@ Each topic links to references in this repository. This is an active project. Li
 - [Cryptography](#cryptography)
 - [Android](#android)
 - [Application Security](#application-security)
+- [Free Courses](#free-courses)
 
 ## References
 #### Active Practice
+- [picoCTF](https://picoctf.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [CTF Time](https://ctftime.org/)
@@ -27,6 +29,11 @@ Each topic links to references in this repository. This is an active project. Li
 - [pwnable.kr](http://pwnable.kr)
 - [rop_emporium](https://ropemporium.com)
 - [Over the Wire](https://overthewire.org/wargames/)
+
+[Back to Index](#topics)
+
+#### Free Course
+- [Introduction to RE with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 
 [Back to Index](#topics)
 
@@ -59,6 +66,7 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 #### Scripting
+- [Powershell Training](https://underthewire.tech/)
 - [Wonkey1212](https://github.com/49thSecurityDivision/wonkey1212)
 - [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 
