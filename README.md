@@ -18,9 +18,11 @@ Each topic links to references in this repository. This is an active project. Li
 - [Android](#android)
 - [Application Security](#application-security)
 - [Free Courses](#free-courses)
+- [Security Toolkit](#toolkit)
 
 ## References
 #### Active Practice
+- [pwnedlabs](https://pwnedlabs.io/)
 - [picoCTF](https://picoctf.org/)
 - [TryHackMe](https://tryhackme.com/)
 - [io.netgarage.org](https://io.netgarage.org/)
@@ -75,7 +77,7 @@ Each topic links to references in this repository. This is an active project. Li
 
 #### Networking
 - [Awesome Networking](https://github.com/facyber/awesome-networking)
--  [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
 [Back to Index](#topics)
 
@@ -85,6 +87,7 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 #### Cryptography
+- [CryptoHack](https://cryptohack.org/)
 - [Awesome Cryptography](https://github.com/ellinamorits/awesome-cryptography)
 
 [Back to Index](#topics)
@@ -98,6 +101,10 @@ Each topic links to references in this repository. This is an active project. Li
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec#readme)
 
 [Back to Index](#topics)
+
+#### Security Toolkit
+- [Assetnote Wordlists](http://wordlists.assetnote.io/)
+- [SecLists](https://github.com/danielmiessler/SecLists)
 
 ## Contributions
 Contributions are welcome! Feel free to fork and make a pull request! Feel free to fork and make a pull request.
