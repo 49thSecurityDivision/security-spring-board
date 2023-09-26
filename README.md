@@ -54,14 +54,19 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 #### Web
+- [WebSecurity Academy](https://portswigger.net/web-security)
+- []()
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 
 [Back to Index](#topics)
 
 #### Reverse Engineering
+- [Introduction to Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
+- [syscall.sh](https://syscall.sh/)
+- [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
 
-[Back to Index](#topics)
+[Back to Index](#topics
 
 #### Malware Analysis
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
