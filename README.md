@@ -29,7 +29,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [io.netgarage.org](https://io.netgarage.org/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [CTF Time](https://ctftime.org/)
-- [OffSec Provind Grounds](https://www.offsec.com/labs/individual/)
+- [OffSec Proving Grounds](https://www.offsec.com/labs/individual/)
 - [pwnable.kr](http://pwnable.kr)
 - [rop_emporium](https://ropemporium.com)
 - [Over the Wire](https://overthewire.org/wargames/)
