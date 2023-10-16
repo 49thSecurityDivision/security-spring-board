@@ -14,6 +14,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [Scripting](#scripting)
 - [Networking](#networking)
 - [Blueteam and Cyber Defense](#blueteam-and-cyber-defense)
+- [Offensive Security](#offensive-security)
 - [Cryptography](#cryptography)
 - [Android](#android)
 - [Application Security](#application-security)
@@ -35,11 +36,6 @@ Each topic links to references in this repository. This is an active project. Li
 
 [Back to Index](#topics)
 
-#### Free Course
-- [Introduction to RE with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
-
-[Back to Index](#topics)
-
 #### CTF
 - [Capture The Flag 101](https://ctf101.org/)
 - [awesome CTF](https://github.com/apsdehal/awesome-ctf#readme)
@@ -55,7 +51,6 @@ Each topic links to references in this repository. This is an active project. Li
 
 #### Web
 - [WebSecurity Academy](https://portswigger.net/web-security)
-- []()
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 
 [Back to Index](#topics)
@@ -64,9 +59,10 @@ Each topic links to references in this repository. This is an active project. Li
 - [Introduction to Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
 - [syscall.sh](https://syscall.sh/)
+- [Intro to Malware Analysis and Reverse Engineering](https://www.cybrary.it/course/malware-analysis)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
 
-[Back to Index](#topics
+[Back to Index](#topics)
 
 #### Malware Analysis
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
@@ -88,6 +84,13 @@ Each topic links to references in this repository. This is an active project. Li
 
 #### Blueteam and Cyber Defense
 - [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+
+[Back to Index](#topics)
+
+#### Offensive Security
+- [pentestmonkey](https://pentestmonkey.net/)
+- [0xffsec Handbook](https://0xffsec.com/handbook/)
+- [Awesome OSCP](https://github.com/0x4D31/awesome-oscp)
 
 [Back to Index](#topics)
 
