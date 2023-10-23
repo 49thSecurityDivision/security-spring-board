@@ -4,3 +4,6 @@
 [submodule "Competitions"]
 	path = competitions
 	url = https://github.com/49thSecurityDivision/Competitions
+[submodule "environment/archive/vagrant-templates/packer-kali_linux"]
+	path = environment/archive/vagrant-templates/packer-kali_linux
+	url = https://github.com/elreydetoda/packer-kali_linux
