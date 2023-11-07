@@ -74,6 +74,7 @@ Each topic links to references in this repository. This is an active project. Li
 
 ### Scripting
 - [Powershell Training](https://underthewire.tech/)
+- [Learn Bash](https://www.codecademy.com/learn/bash-scripting)
 - [Wonkey1212](https://github.com/49thSecurityDivision/wonkey1212)
 - [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 
