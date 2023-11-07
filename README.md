@@ -7,7 +7,7 @@ The purpose of this repository is to be a place where students can get introduce
 Each topic links to references in this repository. This is an active project. Links and references are actively updated.
 - [Active Practice](#active-practice)
 - [CTF](#ctf)
-- [Systems and Systems Adminstration](#systems-and-administration)
+- [Systems and Systems Administration](#systems-and-administration)
 - [Web](#web)
 - [Reverse Engineering](#reverse-engineering)
 - [Malware](#malware-analysis)
@@ -20,9 +20,9 @@ Each topic links to references in this repository. This is an active project. Li
 - [Application Security](#application-security)
 - [Free Courses](#free-courses)
 - [Security Toolkit](#toolkit)
-- [Forensics)(#forensics)
+- [Forensics](#forensics)
 - [Unsorted Tools](#unsorted-tools)
-- [Certificates](#certificates)
+- [Certificates](#certificate-roadmaps)
 
 ## References
 ### Active Practice
@@ -45,7 +45,7 @@ Each topic links to references in this repository. This is an active project. Li
 
 [Back to Index](#topics)
 
-### Systems and Adminstration
+### Systems and Administration
 - [LinuxUpSkillChallenge](https://github.com/snori74/linuxupskillchallenge)
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [Distributed Systems](https://github.com/rShetty/awesome-distributed-systems)
@@ -134,9 +134,10 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 ### Certificate Roadmaps
-- [Certificate Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [Security Certificate Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
 [Back to Index](#topics)
 
 ## Contributions
 Contributions are welcome! Feel free to fork and make a pull request! Feel free to fork and make a pull request.
+
