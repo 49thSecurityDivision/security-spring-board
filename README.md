@@ -21,8 +21,8 @@ Each topic links to references in this repository. This is an active project. Li
 - [Free Courses](#free-courses)
 - [Security Toolkit](#toolkit)
 - [Forensics](#forensics)
-- [Unsorted Tools](#unsorted-tools)
 - [Certificates](#certificate-roadmaps)
+- [Unsorted Tools](#unsorted-tools)
 
 ## References
 ### Active Practice
@@ -132,6 +132,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [rsbkb](https://github.com/trou/rsbkb)
 - [ELITEWOLF](https://github.com/nsacyber/elitewolf)
 - [SELinux](https://github.blog/2023-07-05-introduction-to-selinux/)
+- [JShielder (hardening script)](https://github.com/Jsitech/JShielder)
 
 [Back to Index](#topics)
 
