@@ -91,6 +91,7 @@ Each topic links to references in this repository. This is an active project. Li
 ### Blueteam and Cyber Defense
 - [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [Security Blue Team - Free](https://www.securityblue.team/training#intro-courses)
+- [Let's Defend](https://app.letsdefend.io/training)
 
 [Back to Index](#topics)
 
@@ -129,11 +130,12 @@ Each topic links to references in this repository. This is an active project. Li
 
 [Back to Index](#topics)
 
-### Unsorted Tools
+### Unsorted Tools and Training
 - [rsbkb](https://github.com/trou/rsbkb)
 - [ELITEWOLF](https://github.com/nsacyber/elitewolf)
 - [SELinux](https://github.blog/2023-07-05-introduction-to-selinux/)
 - [JShielder (hardening script)](https://github.com/Jsitech/JShielder)
+- [Hackersploit Red Team+ Blog and Training](https://hackersploit.org/)
 
 [Back to Index](#topics)
 
