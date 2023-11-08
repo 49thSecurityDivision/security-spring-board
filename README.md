@@ -90,6 +90,7 @@ Each topic links to references in this repository. This is an active project. Li
 
 ### Blueteam and Cyber Defense
 - [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+- [Security Blue Team - Free](https://www.securityblue.team/training#intro-courses)
 
 [Back to Index](#topics)
 
