@@ -145,5 +145,5 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 ## Contributions
-Contributions are welcome! Feel free to fork and make a pull request! Feel free to fork and make a pull request.
+Contributions are welcome! Feel free to fork and make a pull request!
 
