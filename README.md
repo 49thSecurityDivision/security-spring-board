@@ -92,6 +92,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [Security Blue Team - Free](https://www.securityblue.team/training#intro-courses)
 - [Let's Defend](https://app.letsdefend.io/training)
+- [FalconHound](https://github.com/FalconForceTeam/FalconHound)
 
 [Back to Index](#topics)
 
