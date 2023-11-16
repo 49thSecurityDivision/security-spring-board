@@ -9,7 +9,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [CTF](#ctf)
 - [Systems and Systems Administration](#systems-and-administration)
 - [Web](#web)
-- [Reverse Engineering](#reverse-engineering)
+- [Reverse Engineering and PWN](#re-and-pwn)
 - [Malware](#malware-analysis)
 - [Scripting](#scripting)
 - [Networking](#networking)
@@ -23,6 +23,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [Forensics](#forensics)
 - [Certificates](#certificate-roadmaps)
 - [Unsorted Tools](#unsorted-tools)
+- [Windows](#windows)
 
 ## References
 ### Active Practice
@@ -58,12 +59,13 @@ Each topic links to references in this repository. This is an active project. Li
 
 [Back to Index](#topics)
 
-### Reverse Engineering
+### RE and Pwn
 - [Introduction to Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Reverse Engineering for Beginners (Costs 1 USD)](https://beginners.re/)
 - [syscall.sh](https://syscall.sh/)
 - [Intro to Malware Analysis and Reverse Engineering](https://www.cybrary.it/course/malware-analysis)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
+- [Easy Linux PWN](https://github.com/xairy/easy-linux-pwn)
 
 [Back to Index](#topics)
 
@@ -106,6 +108,11 @@ Each topic links to references in this repository. This is an active project. Li
 ### Cryptography
 - [CryptoHack](https://cryptohack.org/)
 - [Awesome Cryptography](https://github.com/ellinamorits/awesome-cryptography)
+
+[Back to Index](#topics)
+
+### Windows
+- [Windows Security Super List](https://ntninja.com/resources)
 
 [Back to Index](#topics)
 
