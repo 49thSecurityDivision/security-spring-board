@@ -70,6 +70,8 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 ### Malware Analysis
+- [All-in-One Malware Analysis Tool](https://github.com/CYB3RMX/Qu1cksc0pe)
+- [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 
 [Back to Index](#topics)
