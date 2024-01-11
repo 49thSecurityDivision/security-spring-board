@@ -24,6 +24,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [Certificates](#certificate-roadmaps)
 - [Unsorted Tools](#unsorted-tools)
 - [Windows](#windows)
+- [Linux and Kernel Exploitation](#linux-and-kernel-exploitation)
 
 ## References
 ### Active Practice
@@ -95,6 +96,7 @@ Each topic links to references in this repository. This is an active project. Li
 ### Blueteam and Cyber Defense
 - [Awesome Cybersecurity Blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [Security Blue Team - Free](https://www.securityblue.team/training#intro-courses)
+- [Splunk Boss](https://bots.splunk.com/)
 - [Let's Defend](https://app.letsdefend.io/training)
 - [FalconHound](https://github.com/FalconForceTeam/FalconHound)
 
@@ -115,6 +117,11 @@ Each topic links to references in this repository. This is an active project. Li
 
 ### Windows
 - [Windows Security Super List](https://ntninja.com/resources)
+
+[Back to Index](#topics)
+
+### Linux and Kernel Exploitation
+- [Linux Kernel Exploitation Awesome Page](https://github.com/xairy/linux-kernel-exploitation)
 
 [Back to Index](#topics)
 
@@ -147,6 +154,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [JShielder (hardening script)](https://github.com/Jsitech/JShielder)
 - [Hackersploit Red Team+ Blog and Training](https://hackersploit.org/)
 - [Cyberforce Library](https://anl.app.box.com/s/pa7isy2imy8zv7tjbtmnsy9h18lqnmq8)
+- [List of Computer Science course with Video Lectures](https://github.com/mumer29/List-of-Computer-Science-courses-with-video-lectures./blob/master/README.md#introduction-to-computer-science)
 
 [Back to Index](#topics)
 
