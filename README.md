@@ -5,6 +5,7 @@ The purpose of this repository is to be a place where students can get introduce
 
 ## Topics
 Each topic links to references in this repository. This is an active project. Links and references are actively updated.
+- [Internet Radios](#internet-radios)
 - [Active Practice](#active-practice)
 - [CTF](#ctf)
 - [Systems and Systems Administration](#systems-and-administration)
@@ -27,6 +28,17 @@ Each topic links to references in this repository. This is an active project. Li
 - [Linux and Kernel Exploitation](#linux-and-kernel-exploitation)
 
 ## References
+
+### Active Radios
+- [Rekt Radio](https://rekt.network/)
+- [SomaFM](https://somafm.com/)
+- [ListenToTheCloud](https://listentothe.cloud/)
+- [LofiATC](https://www.lofiatc.com/?icao=ksfo)
+
+creds: archmeyvn
+
+[Back to Index](#topics)
+
 ### Active Practice
 - [pwnedlabs](https://pwnedlabs.io/)
 - [picoCTF](https://picoctf.org/)
@@ -103,6 +115,7 @@ Each topic links to references in this repository. This is an active project. Li
 [Back to Index](#topics)
 
 ### Offensive Security
+- [Red Teaming TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs/blob/main/Operator-Handbook.pdf)
 - [pentestmonkey](https://pentestmonkey.net/)
 - [0xffsec Handbook](https://0xffsec.com/handbook/)
 - [Awesome OSCP](https://github.com/0x4D31/awesome-oscp)
