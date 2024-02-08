@@ -25,7 +25,7 @@ Each topic links to references in this repository. This is an active project. Li
 - [Certificates](#certificate-roadmaps)
 - [Unsorted Tools](#unsorted-tools)
 - [Windows](#windows)
-- [Linux and Kernel Exploitation](#linux-and-kernel-exploitation)
+- [All Things Exploitation](#all-things-exploitation)
 
 ## References
 
@@ -79,6 +79,9 @@ creds: archmeyvn
 - [Intro to Malware Analysis and Reverse Engineering](https://www.cybrary.it/course/malware-analysis)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
 - [Easy Linux PWN](https://github.com/xairy/easy-linux-pwn)
+- [Ghidra Plugin: Binary Type Inference](https://blog.trailofbits.com/2024/02/07/binary-type-inference-in-ghidra/)
+- [elfred: ELF Hacking](https://github.com/vr0n/elfred)
+- [Exploring Object File Types](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 
 [Back to Index](#topics)
 
@@ -133,8 +136,10 @@ creds: archmeyvn
 
 [Back to Index](#topics)
 
-### Linux and Kernel Exploitation
+### All Things Exploitation
 - [Linux Kernel Exploitation Awesome Page](https://github.com/xairy/linux-kernel-exploitation)
+- [Linux Kernel Exploitation](https://santaclz.github.io/2024/01/29/Linux-Kernel-Exploitation-exploiting-race-condition-and-UAF.html)
+- [Chrome Sandbox Escape POCS](https://github.com/allpaca/chrome-sbx-db)
 
 [Back to Index](#topics)
 
